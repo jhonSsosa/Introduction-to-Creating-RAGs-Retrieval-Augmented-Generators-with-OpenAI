@@ -18,8 +18,8 @@ El proyecto utiliza LangChain para generar respuestas a partir de una cadena de 
 
 1. Clonar el repositorio
    ```
-   git clone https://github.com/tuusuario/langchain-llm-chain.git
-   cd langchain-llm-chain
+   git clone https://github.com/jhonSsosa/Introduction-to-Creating-RAGs-Retrieval-Augmented-Generators-with-OpenAI.git
+   cd Introduction-to-Creating-RAGs-Retrieval-Augmented-Generators-with-OpenAI
    ```
 
 2. Crear un entorno virtual y activarlo
